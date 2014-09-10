@@ -41,6 +41,8 @@ gem 'spring',        group: :development
 gem 'devise'
 gem 'cancancan'
 gem 'enum_help'
+gem 'omniauth-github'
+gem 'figaro'
 
 group :test do
   gem "rspec"
