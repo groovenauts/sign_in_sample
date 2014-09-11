@@ -42,6 +42,7 @@ gem 'devise'
 gem 'cancancan'
 gem 'enum_help'
 gem 'omniauth-github'
+gem 'omniauth-facebook'
 gem 'figaro'
 
 group :test do

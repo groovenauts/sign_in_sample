@@ -1,6 +1,10 @@
 # Add application configuration variables here, as shown below.
 #
 ## github
-# GITHUB_KEY: 7381a978f7dd7f9a1117
-# GITHUB_SECRET: abdc3b896a0ffb85d373abdc3b896a0ffb85d373
+#GITHUB_KEY: 7381a978f7dd7f9a1117
+#GITHUB_SECRET: abdc3b896a0ffb85d373abdc3b896a0ffb85d373
+
+## facebook
+#FACEBOOK_KEY: 7381a978f7dd7f9a1117
+#FACEBOOK_SECRET: abdc3b896a0ffb85d373abdc3b896a0ffb85d373
 
